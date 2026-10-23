@@ -1,0 +1,5 @@
+# Allow the native build steps required by Next.js and its dependencies.
+allowBuilds:
+  esbuild: true
+  sharp: true
+  unrs-resolver: true
